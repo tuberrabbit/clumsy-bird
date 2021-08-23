@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
   "homepage": "http://ellisonleao.github.io/clumsy-bird/",
+  "scripts": {
+    "dev": "grunt connect"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ellisonleao/clumsy-bird"
